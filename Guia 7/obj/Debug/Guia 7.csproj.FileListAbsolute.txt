@@ -1,0 +1,7 @@
+C:\Users\Josia\source\repos\Guia 7\Guia 7\bin\Debug\Guia 7.exe.config
+C:\Users\Josia\source\repos\Guia 7\Guia 7\bin\Debug\Guia 7.exe
+C:\Users\Josia\source\repos\Guia 7\Guia 7\bin\Debug\Guia 7.pdb
+C:\Users\Josia\source\repos\Guia 7\Guia 7\obj\Debug\Guia 7.csproj.AssemblyReference.cache
+C:\Users\Josia\source\repos\Guia 7\Guia 7\obj\Debug\Guia 7.csproj.CoreCompileInputs.cache
+C:\Users\Josia\source\repos\Guia 7\Guia 7\obj\Debug\Guia 7.exe
+C:\Users\Josia\source\repos\Guia 7\Guia 7\obj\Debug\Guia 7.pdb
